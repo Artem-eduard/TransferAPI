@@ -1,0 +1,9 @@
+CommonAPI = 78, 78, 1407, 720, C
+CommonModules = 104, 104, 1433, 746, C
+frmOverAmount = 0, 0, 0, 0, C, 234, 234, 1563, 876, C
+frmEndChargeOverride = 0, 0, 0, 0, C, 182, 182, 1511, 824, C
+Application = 156, 156, 1485, 798, C
+frmOtherService = 0, 0, 0, 0, C, 208, 208, 1537, 850, C
+frmChargeOverride = 260, 260, 1589, 902, C, 52, 52, 1381, 694, C
+frmAvailCharge = 286, 286, 1615, 928, C, 26, 26, 1355, 668, C
+clsDatabase = 130, 130, 1459, 772, C
